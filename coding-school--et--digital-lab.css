@@ -1,0 +1,276 @@
+* {font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
+.corps{
+    background-color:rgb(60, 65, 136);
+}
+.maincoding{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.sectioncoding1 {
+    display:flex;
+    color:white;
+    opacity: 80%;
+       
+}
+.asidecoding {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-self:flex-end;
+    max-width: 380px;
+    padding: 7%;display:flex;
+    color:white;
+    opacity: 80%;
+    ;
+    }
+.h1coding {
+    font-size: 150px;
+}
+
+.logo2 {
+    height: 120px;
+    width: 120px;
+}
+.h1coding{
+    font-size: 50px;
+
+}
+.an {
+    color:darkgrey;
+}
+.articlecoding {
+    max-width:50%;
+    padding-top: 4%;
+    padding-right: 4%;
+    line-height: 200%;
+    font-weight: bold;
+  
+}
+.inscriptionbutton {
+    border : solid;
+    border-radius: 20px 20px 20px 20px;
+    background-color:gold;
+    text-align: center;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    color:white;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+.logo-gen {
+    height: 200px;
+    width: 300px;
+}
+.logo3 {
+    height: 100%;
+    max-width: 100%;
+    
+}
+.logocode {
+    display:flex;
+
+}
+footer
+{
+    display: flex;
+    background-color: pink;
+    justify-content: space-evenly;
+    line-height: 200%;
+    margin:auto;
+    color:white;
+    background-color:mediumvioletred;
+    
+}
+table  {
+    background-color: rgb(255, 255, 255);
+    border-collapse: collapse;
+    box-shadow: black 3px 3px 10px;
+    
+}
+td {
+   
+    border-color:rgba(206, 206, 206, 0.548);
+    border-style: solid;
+    font-weight: bold;
+    min-width: 400px;
+    min-height:200px;
+    
+    
+    
+}
+.sect1
+{
+    display: flex;
+    align-self: flex-end;
+    padding-right: 50px;
+}
+.div4
+{
+    margin: 12px;
+    padding: 12px;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    height: 8vh;
+    background-color: whitesmoke;
+}
+
+header nav{
+    display: flex;
+}
+
+header ul{
+    display: flex;
+    list-style-type: none;
+}
+
+header li{
+    padding: 0 20px;
+}
+
+header li a{
+    font-size: 15px;
+    color: #000000;
+    text-decoration: none;
+}
+
+header li a:hover{
+    color: red;
+    border-bottom: solid 2px red;
+}
+.sectioncoding2 {
+    background-color: rgb(255, 255, 255);
+    display:flex;
+    padding-left:15%;
+    padding-right: 15%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    line-height: 200%;
+    color:darkslategray;
+    
+}
+.ordi {
+    width:60px;
+    height: 60px;}
+.sectioncoding3
+    {
+        display:flex;
+        
+       
+    }
+.diva1 {
+    display:flex;
+    flex-direction: column;
+    color:mediumblue;
+    opacity: 80%;
+    background-color: white;
+    margin-right: 5%;
+    line-height: 200%;
+    padding : 15px;
+    
+    
+}
+.diva2 {
+    display:flex;
+    flex-direction: column;
+    color: mediumblue;
+    opacity: 80%;
+    background-color: white;
+    margin-left: 5%;
+    width: 800px;
+    height:800px;
+    line-height: 200%;
+    padding: 15px;
+}
+
+.titrea {
+    color:midnightblue;
+    font-size: large;
+}
+.asidecoding2 {
+    display: flex;
+}
+.diva3 { 
+    line-height: 200%;
+    margin: 5%;
+    color:whitesmoke;
+    opacity: 80%;
+}
+.diva4 {
+    line-height: 200%;
+    margin: 5%;
+    color: whitesmoke;
+    opacity: 80%;
+}
+#titlea {
+    font-size: 30px;
+    line-height: 200%;
+    color:midnightblue;
+}
+#listecoding {
+    color:whitesmoke;
+    opacity: 80%;
+    line-height: 200%;
+    margin-bottom: 5%;
+}
+.titredig{
+    color: white;
+    font-size: 30px;
+}
+.maincoding {
+    color:white;
+}
+.sectiondig {
+    display: flex;
+    justify-content: space-around;
+    line-height: 200%;
+    margin-top: 4%;
+}
+.yellow {
+    color:goldenrod;
+}
+#yellow {
+    color: goldenrod;
+    text-decoration: none;
+}
+.articledig {
+    line-height: 200%;
+}
+.divdi1{
+    display:flex;
+    flex-direction: column;
+    color: mediumblue;
+    opacity: 80%;
+    background-color: white;
+    margin-left: 5%;
+    width: 800px;
+    height:1000px;
+    line-height: 200%;
+    padding: 15px;
+}
+.divdi2{
+    display:flex;
+    flex-direction: column;
+    color: mediumblue;
+    opacity: 80%;
+    background-color: white;
+    margin-left: 5%;
+    width: 800px;
+    height:1000px;
+    line-height: 200%;
+    padding: 20px;
+}
+.sectiondigital{
+    display: flex;
+}
+.sectionfinal {
+    line-height: 200%;
+
+}
+.para {
+    line-height:200%;
+}
